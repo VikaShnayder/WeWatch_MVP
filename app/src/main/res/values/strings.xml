@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeWatch</string>
+    <string name="title_film">Название фильма</string>
+    <string name="year_film">Год выпуска</string>
+    <string name="desc">Обложка фильма</string>
+    <string name="add">Добавить</string>
+    <string name="enter_title_film">Введите название фильма</string>
+    <string name="enter_year_film">Введите год выпуска фильма</string>
+</resources>
