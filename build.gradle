@@ -6,6 +6,7 @@ plugins {
     id("org.jetbrains.kotlin.kapt") version "1.8.0" apply false
 }
 
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
