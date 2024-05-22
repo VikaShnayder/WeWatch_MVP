@@ -1,5 +1,6 @@
-package com.shnayder.android.wewatch
+package com.shnayder.android.wewatch.main
 
+import com.shnayder.android.wewatch.R
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.View

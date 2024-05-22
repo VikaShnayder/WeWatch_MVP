@@ -1,5 +1,6 @@
-package com.shnayder.android.wewatch
+package com.shnayder.android.wewatch.main
 
+import com.shnayder.android.wewatch.R
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -12,6 +13,7 @@ import androidx.lifecycle.asLiveData
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
+import com.shnayder.android.wewatch.add.AddActivity
 import com.shnayder.android.wewatch.model.FilmDatabase
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers

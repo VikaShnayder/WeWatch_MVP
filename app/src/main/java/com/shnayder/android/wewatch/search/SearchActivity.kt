@@ -7,6 +7,7 @@ import android.os.Bundle
 import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.shnayder.android.wewatch.add.AddActivity
 import com.shnayder.android.wewatch.retrofit.Film
 import com.shnayder.android.wewatch.retrofit.FilmApi
 import kotlinx.coroutines.CoroutineScope
@@ -16,6 +17,7 @@ import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
+import java.util.Collections.emptyList
 
 class SearchActivity : AppCompatActivity() {
     private lateinit var list: List<Film>

@@ -1,4 +1,4 @@
-package com.shnayder.android.wewatch
+package com.shnayder.android.wewatch.add
 
 import android.app.Activity
 import android.content.Intent
@@ -10,6 +10,7 @@ import android.widget.EditText
 import android.widget.ImageView
 import android.widget.Toast
 import com.bumptech.glide.Glide
+import com.shnayder.android.wewatch.SearchActivity
 import com.shnayder.android.wewatch.model.FilmDatabase
 import com.shnayder.android.wewatch.model.FilmEntity
 import com.shnayder.android.wewatch.retrofit.Film

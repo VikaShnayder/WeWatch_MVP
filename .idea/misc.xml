@@ -19,6 +19,11 @@
         <entry key="..\:/WeWatch/app/src/main/res/layout/list_item_film.xml" value="0.264" />
         <entry key="..\:/WeWatch/app/src/main/res/layout/list_item_film_search.xml" value="0.2" />
         <entry key="..\:/WeWatch/app/src/main/res/layout/search_film.xml" value="0.264" />
+        <entry key="..\:/WeWatch_MVP/app/src/main/res/layout/activity_add.xml" value="0.12360688956433637" />
+        <entry key="..\:/WeWatch_MVP/app/src/main/res/layout/activity_main.xml" value="0.19067028985507245" />
+        <entry key="..\:/WeWatch_MVP/app/src/main/res/layout/activity_search.xml" value="0.19067028985507245" />
+        <entry key="..\:/WeWatch_MVP/app/src/main/res/layout/list_activity_main.xml" value="0.19067028985507245" />
+        <entry key="..\:/WeWatch_MVP/app/src/main/res/layout/list_activity_search.xml" value="0.19067028985507245" />
       </map>
     </option>
   </component>
